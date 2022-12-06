@@ -1,5 +1,4 @@
-git rm -r --cached .idea
-git rm -r --cached .gitignore
+cd /Volumes/feng/04.\ pic
 git add .
 git config user.name "gaigai"
 git commit -m "picture"
